@@ -17,7 +17,7 @@ MouseInfo==0.1.3
 nano==0.10.0
 numpy==1.19.5
 opencv-python==4.5.1.48
-Pillow==8.1.0
+Pillow==8.2.0
 pipreqs==0.4.10
 PyAutoGUI==0.9.52
 pyfiglet==0.8.post1
